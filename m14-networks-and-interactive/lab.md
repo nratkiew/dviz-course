@@ -139,5 +139,5 @@ Assignment: add radio buttons to allow changing the color of the points. Your re
 
 ![example](https://github.com/yy/dviz-course/raw/master/m14-networks-and-interactive/m14_example.png)
     
-    
+When you are finished - click 'Export' and choose 'Download PNG', to save a picture of your result. Next, choose 'Export' again, and choose 'Download JSON', (the default options are fine) submit both on Canvas along with your Les Miserables result. 
     
